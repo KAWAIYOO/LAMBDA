@@ -4,7 +4,7 @@ This is a Pythonic translation of Dr P.J. Teunissen's LAMBDA algorithm for fixin
 The original LAMBDA was written in MATLAB by Dr Sandra Verhagan and Dr Bofeng Li, TU Delft / Curtin University.
 This Pythonic translation employs the default integer least-squares (ILS) with search-and-shrink method.
 It decorrelates float ambiguities based on the covariance matrix search-and-shrink, and then fixes ambiguities.
-Although it was intended for GNSS ambiguity fixing, it can fix integers for other applications like InSAR
+Although it was intended for GNSS ambiguity fixing, it can fix integers for other applications like InSAR.
 Credits to PJ Teunissen, Jonge, J Tiberius, S. Verhagen, and Bofeng Li.
 
 INPUTS:
